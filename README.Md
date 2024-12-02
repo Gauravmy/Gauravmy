@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Dhakad</h1>
+<h1 align="center">Hi 👋, I'm Gaurav S. Dhakad</h1>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gauravmy&label=Profile%20views&color=0e75b6&style=flat" alt="gauravmy" />
 </p>
@@ -15,14 +15,16 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **AI frameworks**
-- 👯 I’m looking to collaborate with **AI enthusiasts**
-- 🤝 I’m looking for help with **Tech things**
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Gauravmy)
-- 💬 Ask me about **Anything in tech**
-- 📫 How to reach me **7668759926**
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1rebCrzErBMNjBPdiiKLxLJ95brkC3gfL/view?usp=drive_link)
-- ⚡ Fun fact **I am a lazy programmer**
+- 🌱 I’m currently learning **DSA in Java and AI/ML frameworks**  
+- 👯 I’m looking to collaborate with **AI/ML enthusiasts and developers**  
+- 🤝 I’m seeking help with **Advanced AIML project development**  
+- 👨‍💻 Check out my projects on [My GitHub](https://github.com/Gauravmy)  
+- 📝 I regularly post updates on [LinkedIn](https://linkedin.com/in/gaurav-dhakad-3b15b4292)  
+- 💬 Ask me about **Java, AI/ML, and Web Development**  
+- 📫 How to reach me: **gaurav.dhakad.ai@gmail.com**  
+- ⚡ Fun fact: **I love solving problems with tech and mentoring peers!**  
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,17 +45,28 @@
   </a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Add your tools with corresponding icons -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
-  <!-- Continue listing other tools similarly -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+  </a>
 </p>
+
+---
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>
