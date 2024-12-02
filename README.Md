@@ -2,30 +2,31 @@
 <h3 align="center">🚀 A Passionate AI/ML Student | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gauravmy&label=Profile%20views&color=0e75b6&style=flat" alt="gauravmy" />
+  <img src="https://komarev.com/ghpvc/?username=gauravmy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gauravmy&theme=onedark&no-frame=true&row=1&column=7" alt="gauravmy" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/gauravd74228683" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/gauravd74228683?logo=twitter&style=for-the-badge" alt="gauravd74228683" />
+    <img src="https://github-profile-trophy.vercel.app/?username=gauravmy&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
   </a>
 </p>
 
 ---
 
+### 🎨 Featured Section:
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/56776155/190835785-0e339b67-ff4d-4919-8825-f03b3c5b6fcf.png" alt="Featured Work" width="80%" />
+  <p><em>💡 Snapshot of my latest AI/ML project: "Smart EduConnect" 🌟</em></p>
+</div>
+
+---
+
 ### 👨‍💻 About Me:
-- 🌱 I’m currently mastering **DSA in Java** and exploring **AI/ML frameworks**.  
+- 🌱 Currently mastering **DSA in Java** and exploring **AI/ML frameworks**.  
 - 👯 Looking to collaborate with **AI/ML enthusiasts and developers**.  
-- 🧑‍🏫 Actively contributing to the **AI Tech Community for Students**.  
-- 💡 I love solving **real-world problems with tech** and mentoring peers.  
+- 🧑‍🏫 Contributing to the **AI Tech Community for Students**.  
 - 📝 Regularly posting updates on [LinkedIn](https://linkedin.com/in/gaurav-dhakad-3b15b4292).  
-- 📄 Know more about my experiences through my [Resume](https://drive.google.com/file/d/1rebCrzErBMNjBPdiiKLxLJ95brkC3gfL/view?usp=drive_link).  
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1rebCrzErBMNjBPdiiKLxLJ95brkC3gfL/view?usp=drive_link).  
 - ⚡ Fun Fact: **I code smart, not hard.**  
 
 ---
@@ -33,81 +34,57 @@
 ### 🔗 Connect with Me:
 <p align="center">
   <a href="https://twitter.com/gauravd74228683" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://img.shields.io/twitter/follow/gauravd74228683?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/gaurav-dhakad-3b15b4292" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/g4777636" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.leetcode.com/g4777636" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/g4777sov1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
-  </a>
-</p>
+### 🛠️ Tools and Technologies:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,tensorflow,mysql" alt="Tools" />
+</div>
 
 ---
 
 ### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravmy&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravmy&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmy&theme=radical" alt="GitHub Streak Stats" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravmy&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmy&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravmy&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</div>
 
 ---
 
-### 🚀 Achievements:
-- 🏆 **LeetCode Streak**: 79+ days of coding consistently (and counting).  
-- 🥇 **Hackathon Excellence**: Participated in **national-level hackathons** with innovative solutions.  
-- 🌟 **Leadership**: Founder of the **AI Tech Community** for student collaboration and growth.  
-- 📖 **Certifications**: Holder of prestigious certifications from **Microsoft**, **Great Learning**, and **Coursera**.  
+### 🎯 Dynamic Activity:
+- 🌟 Recent Contributions:  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gauravmy&theme=react-dark&hide_border=true)
 
 ---
 
-### 🌱 My Current Goals:
-- Build impactful **AI/ML projects** for real-world applications.  
-- Master **Dynamic Programming** and advanced **DSA concepts**.  
-- Actively engage and contribute to **open-source communities**.  
+### 🌟 Achievements:
+- 🏆 **LeetCode Streak**: 79+ days (and counting).  
+- 🥇 **Hackathon Excellence**: Innovating solutions at **national-level hackathons**.  
+- 🌟 **Leadership**: Founder of the **AI Tech Community for Students**.  
+- 📖 **Certifications**: **Microsoft**, **Coursera**, **Great Learning**, and more.
 
 ---
 
-### 🎨 Fun Stuff:
-- **Favorite Quote**: *"Code is like humor. When you have to explain it, it’s bad."*  
-- **Hobbies**: Exploring new tech, mentoring peers, and participating in hackathons.  
+### 📷 Photo Gallery:
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/56776155/190836042-6f7304f4-6b73-47e2-88c1-b2d108555a4a.png" alt="Hackathon" width="30%" />
+  <img src="https://user-images.githubusercontent.com/56776155/190836053-cb20a0cb-4d63-4577-88e3-77c9fd32a37c.png" alt="Community Event" width="30%" />
+  <img src="https://user-images.githubusercontent.com/56776155/190836060-2c6ad2d8-52df-4c44-999b-1456b477c045.png" alt="Project Demo" width="30%" />
+</div>
 
 ---
 
-### ✨ Thank you for stopping by!
-Feel free to connect, collaborate, or just drop by to say hello. Let’s innovate together! 🚀
+### 💡 Let's Build Together!
+Feel free to connect, collaborate, or brainstorm.  
+Let’s innovate and grow the tech world together! 🚀
