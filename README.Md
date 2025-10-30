@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav S. Dhakad</h1>
+<h1 align="center">Hi 👋, I'm Gaurav  Dhakad</h1>
 <h3 align="center">🚀 A Passionate AI/ML Student | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
