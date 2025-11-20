@@ -1,90 +1,122 @@
-<h1 align="center">Hi 👋, I'm Gaurav  Dhakad</h1>
-<h3 align="center">🚀 A Passionate AI/ML Student | Tech Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Gaurav Dhakad</h1>
+<h3 align="center">🚀 AI/ML Engineer | Full-Stack Developer | Open-Source Contributor | Hackathon Finalist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gauravmy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gauravmy&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gauravmy&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
-  </a>
-</p>
-
----
-
-### 🎨 Featured Section:
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/56776155/190835785-0e339b67-ff4d-4919-8825-f03b3c5b6fcf.png" alt="Featured Work" width="80%" />
-  <p><em>💡 Snapshot of my latest AI/ML project: "Smart EduConnect" 🌟</em></p>
-</div>
-
----
-
-### 👨‍💻 About Me:
-- 🌱 Currently mastering **DSA in Java** and exploring **AI/ML frameworks**.  
-- 👯 Looking to collaborate with **AI/ML enthusiasts and developers**.  
-- 🧑‍🏫 Contributing to the **AI Tech Community for Students**.  
-- 📝 Regularly posting updates on [LinkedIn](https://linkedin.com/in/gaurav-dhakad-3b15b4292).  
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1rebCrzErBMNjBPdiiKLxLJ95brkC3gfL/view?usp=drive_link).  
-- ⚡ Fun Fact: **I code smart, not hard.**  
-
----
-
-### 🔗 Connect with Me:
-<p align="center">
-  <a href="https://twitter.com/gauravd74228683" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/gauravd74228683?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/gaurav-dhakad-3b15b4292" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.leetcode.com/g4777636" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=gauravmy&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-### 🛠️ Tools and Technologies:
+## 👨‍💻 About Me
+
+- 🎓 Third-year **B.Tech CSE (AI & ML Major)** at Sanskriti University  
+- 🧠 Strong in **Machine Learning, Deep Learning, Computer Vision & Full-Stack Development**  
+- 🏆 Finalist in **7+ National Hackathons** including SIH, Flipkart GRiD, Walmart Sparkathon  
+- 🧑‍🏫 Mentored **300+ students** through *AI Digitals* & *Unstoppable Coders Community*  
+- 📊 Solved **1000+ DSA problems** across LeetCode & GFG  
+- 💻 Maintaining **60+ GitHub repositories** in AI/ML, automation & web dev  
+- 🚀 Passionate about building **AI-powered intelligent systems**  
+- 🌐 Portfolio: **https://gaurav-dhakad-portfolio.vercel.app**
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/gauravd74228683"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/gaurav-dhakad-b7ba642a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/g4777636"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/g4777sov1"><img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://github.com/Gauravmy"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🔹 Programming  
+**Python, C++, JavaScript, TypeScript, Rust, Java**
+
+### 🔹 AI / ML / CV  
+**TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, OpenCV, YOLO, NLP**
+
+### 🔹 Full-Stack Development  
+**React.js, Next.js, Node.js, Firebase, REST APIs**
+
+### 🔹 Tools & Platforms  
+**Linux, Docker, Git/GitHub, VS Code, Google Cloud, Jupyter, Figma**
+
+---
+
+## 🚀 Major Projects (From Resume)
+
+### 🌟 **Grace – AI Healthcare Assistant**  
+- Python & OpenCV-based gesture + voice-controlled automation  
+- Built for hands-free patient assistance  
+🔗 *GitHub:* github.com/Gauravmy/Grace
+
+### 🌾 **AgriMarket – Real-time Farmer Marketplace**  
+- Full-stack platform connecting farmers and buyers  
+- Secure payments + live price updates  
+🔗 *GitHub:* github.com/Gauravmy/AgriMarket
+
+### 📊 **AI Demand Forecasting (Logistics)**  
+- Predictive ML models for supply chain optimization  
+🔗 *GitHub:* github.com/Gauravmy/AI-Demand-Forecasting-Logistics
+
+### 🧠 **BioPay – Facial Recognition Payments**  
+- Face recognition + React + Firebase payments  
+🔗 *GitHub:* github.com/Gauravmy/bio-pay-connect
+
+### 🚆 **AI-Powered Train Traffic Control**  
+- Predictive ML system to avoid congestion + delays  
+🔗 *GitHub:* github.com/Gauravmy/Al-Powered-Precise-Train-Traffic-Control
+
+---
+
+## 🌍 Open Source Contributions
+- ✳️ **Hyperswitch** – Payment infrastructure  
+- ✳️ **llm-app** – AI pipeline components  
+- ✳️ **Pathway** – Data engineering & streaming AI  
+- ✳️ **Walmart Sparkathon Projects**
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,tensorflow,mysql" alt="Tools" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gauravmy&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmy&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmy&layout=compact&theme=radical" />
 </div>
 
 ---
 
-### 📈 GitHub Stats:
+## 🏆 Achievements
+
+- 🥇 Finalist in **7+ national hackathons** (GRiD, SIH, Walmart Sparkathon, etc.)  
+- 🧑‍🏫 Mentored **300+ students** across AI/DSA communities  
+- 📚 **1000+ DSA Problems Solved**  
+- 🔧 60+ GitHub Repositories maintained  
+- 🎤 Hosted **15+ workshops and coding events**
+
+---
+
+## 📷 Photo Gallery
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravmy&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmy&theme=radical" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravmy&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://user-images.githubusercontent.com/56776155/190836042-6f7304f4-6b73-47e2-88c1-b2d108555a4a.png" width="30%" />
+  <img src="https://user-images.githubusercontent.com/56776155/190836053-cb20a0cb-4d63-4577-88e3-77c9fd32a37c.png" width="30%" />
+  <img src="https://user-images.githubusercontent.com/56776155/190836060-2c6ad2d8-52df-4c44-999b-1456b477c045.png" width="30%" />
 </div>
 
 ---
 
-### 🎯 Dynamic Activity:
-- 🌟 Recent Contributions:  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gauravmy&theme=react-dark&hide_border=true)
+## 💬 Let's Build Something Amazing!
 
----
-
-### 🌟 Achievements:
-- 🏆 **LeetCode Streak**: 79+ days (and counting).  
-- 🥇 **Hackathon Excellence**: Innovating solutions at **national-level hackathons**.  
-- 🌟 **Leadership**: Founder of the **AI Tech Community for Students**.  
-- 📖 **Certifications**: **Microsoft**, **Coursera**, **Great Learning**, and more.
-
----
-
-### 📷 Photo Gallery:
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/56776155/190836042-6f7304f4-6b73-47e2-88c1-b2d108555a4a.png" alt="Hackathon" width="30%" />
-  <img src="https://user-images.githubusercontent.com/56776155/190836053-cb20a0cb-4d63-4577-88e3-77c9fd32a37c.png" alt="Community Event" width="30%" />
-  <img src="https://user-images.githubusercontent.com/56776155/190836060-2c6ad2d8-52df-4c44-999b-1456b477c045.png" alt="Project Demo" width="30%" />
-</div>
-
----
-
-### 💡 Let's Build Together!
-Feel free to connect, collaborate, or brainstorm.  
-Let’s innovate and grow the tech world together! 🚀
+If you want to collaborate on **AI, ML, IoT, automation, or full-stack projects**,  
+📩 **Feel free to reach out — I love building real-world impact!**
