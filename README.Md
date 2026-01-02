@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Third-year **B.Tech CSE (AI & ML Major)** at Sanskriti University  
+- 🎓 Third-year **B.Tech CSE (AI & ML )** at Sanskriti University  
 - 🧠 Strong in **Machine Learning, Deep Learning, Computer Vision & Full-Stack Development**  
 - 🏆 Finalist in **7+ National Hackathons** including SIH, Flipkart GRiD, Walmart Sparkathon  
 - 🧑‍🏫 Mentored **300+ students** through *AI Digitals* & *Unstoppable Coders Community*  
