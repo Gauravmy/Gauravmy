@@ -8,9 +8,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gauravmy&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
-
----
-
 ## 👨‍💻 About Me
 
 - 🎓 Third-year **B.Tech CSE (AI & ML )** at Sanskriti University  
@@ -21,8 +18,6 @@
 - 💻 Maintaining **60+ GitHub repositories** in AI/ML, automation & web dev  
 - 🚀 Passionate about building **AI-powered intelligent systems**  
 - 🌐 Portfolio: **https://gaurav-dhakad-portfolio.vercel.app**
-
----
 
 ## 🔗 Connect With Me
 
@@ -74,9 +69,6 @@
 ### 🚆 **AI-Powered Train Traffic Control**  
 - Predictive ML system to avoid congestion + delays  
 🔗 *GitHub:* github.com/Gauravmy/Al-Powered-Precise-Train-Traffic-Control
-
----
-
 ## 🌍 Open Source Contributions
 - ✳️ **Hyperswitch** – Payment infrastructure  
 - ✳️ **llm-app** – AI pipeline components  
