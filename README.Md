@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gauravmy&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 - 🎓 Third-year **B.Tech CSE (AI & ML )** at Sanskriti University  
 - 🧠 Strong in **Machine Learning, Deep Learning, Computer Vision & Full-Stack Development**  
